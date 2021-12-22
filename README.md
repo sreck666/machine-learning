@@ -17,7 +17,9 @@ para habilitar el entorno:
     
     nombre_de_env\Scripts\activate/eactivate
     
-    
+
+
+![Pepo](assets/ml_lib.png)
     
 
 https://raw.githubusercontent.com/sreck666/python/assets/ml_lib.png
