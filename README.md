@@ -11,11 +11,12 @@
 
 
 
-machine learning:
+ machine learning information:
 
     https://naps.com.mx/blog/introduccion-al-machine-learning-en-python/
 
-environments:
+ 
+ environments information:
 
     https://code.visualstudio.com/docs/python/environments
 
