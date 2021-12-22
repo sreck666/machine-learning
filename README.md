@@ -37,17 +37,22 @@ End with an example of getting some data out of the system or using it for a lit
 Explain how to run the automated tests for this system
 
 
- machine learning information:
+
+
+###machine learning information:
 
     https://naps.com.mx/blog/introduccion-al-machine-learning-en-python/
 
  
- environments information:
+ ###environments information:
 
     https://code.visualstudio.com/docs/python/environments
 
 
-      para crear el entorno: 
+```
+para crear el entorno: 
+```
+
 
               python -m venv .venv
 
