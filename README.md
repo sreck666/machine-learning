@@ -1,4 +1,4 @@
-# Project Title
+# python informacion y ejemplos sobre machine learning
 
 One Paragraph of project description goes here
 
@@ -13,12 +13,14 @@ Say what the step will be
 ```
 
 https://naps.com.mx/blog/introduccion-al-machine-learning-en-python/
+
 ```
  
  ### environments information:
 ```
    
    https://code.visualstudio.com/docs/python/environments
+   
 ```
 
 
@@ -32,6 +34,7 @@ para habilitar o desabilitar el entorno:
 ```    
 
     nombre_de_env\Scripts\activate/eactivate
+    
 ```
 
 
