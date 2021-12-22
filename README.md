@@ -25,7 +25,9 @@ para crear el entorno:
 para habilitar el entorno: 
     
     nombre_de_env\Scripts\activate/eactivate
-    
+
+
+
 
 
 ![Librerias necesarias](assets/ml_lib.png)
