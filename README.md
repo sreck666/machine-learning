@@ -21,14 +21,13 @@
     https://code.visualstudio.com/docs/python/environments
 
 
-para crear el entorno: 
+      para crear el entorno: 
 
-            python -m venv .venv
+              python -m venv .venv
 
-para habilitar el entorno: 
+      para habilitar el entorno: 
     
-            nombre_de_env\Scripts\activate/eactivate
-
+              nombre_de_env\Scripts\activate/eactivate
 
 
 
