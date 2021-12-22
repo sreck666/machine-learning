@@ -20,4 +20,7 @@ para habilitar el entorno:
     
     
 
-https://raw.github.com/sreck666/python/blob/ae1e5601a753b9c74c8d0fc27128e6b98415de8e/assets/ml_lib.png
+https://raw.githubusercontent.com/sreck666/python/assets/ml_lib.png
+
+
+https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png
