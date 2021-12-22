@@ -19,5 +19,5 @@ para habilitar el entorno:
     
     
     
-    
- https://github.com/sreck666/python/blob/ae1e5601a753b9c74c8d0fc27128e6b98415de8e/assets/ml_lib.png
+
+https://raw.github.com/sreck666/python/blob/ae1e5601a753b9c74c8d0fc27128e6b98415de8e/assets/ml_lib.png
