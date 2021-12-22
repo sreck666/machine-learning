@@ -44,14 +44,14 @@ https://naps.com.mx/blog/introduccion-al-machine-learning-en-python/
 
 ```
  
- ### environments information:
+### environments information:
 ```
    
    https://code.visualstudio.com/docs/python/environments
    
 ```
 
-
+###
 para crear el entorno: 
 ```
 
@@ -67,6 +67,7 @@ para habilitar o desabilitar el entorno:
     nombre_de_env\Scripts\deactivate.bat
     
 ```
+###
 ### librerias...
 
 Pandas:
@@ -86,6 +87,7 @@ Hasta este punto únicamente hemos introducido librerías que nos permiten manip
 
 TensorFlow:
 Tensorflow es una de las librerías open source más importantes de Deep Learning y ha sido creada por Google. Está formada por un ecosistema flexible de herramientas, librerías y recursos de la comunidad y ayuda a los investigadores a innovar aplicando técnicas de Machine Learning. Además, permite a los desarrolladores incorporar este tipo de tecnologías en sus aplicaciones.
+###
 
 ![Librerias necesarias](assets/ml_lib.png)
     
