@@ -1,18 +1,33 @@
 # python - informacion y ejemplos sobre machine learning
 
+[![arduino-library-badge](https://www.ardu-badge.com/badge/SinricPro.svg?)](https://www.ardu-badge.com/SinricPro) [![](https://img.shields.io/badge/PlatformIO_Libraries-SinricPro-brightgreen.svg)](https://platformio.org/lib/show/6519/SinricPro)
+
+[![Platform ESP8266](https://img.shields.io/badge/Platform-Espressif8266-orange)](#) [![Platform ESP32](https://img.shields.io/badge/Platform-Espressif32-orange)](#)
+
+[![Framework](https://img.shields.io/badge/Framework-Arduino-blue)](https://www.arduino.cc/)
+
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/sinricpro/esp8266-esp32-sdk)](https://github.com/sinricpro/esp8266-esp32-sdk/releases)
+
+## Note
+1. Use the latest ESP Arduino Core!
+2. Use the latest WebSocktes library!
+
+## Installation
+
+## VS Code & PlatformIO:
+1. Install [VS Code](https://code.visualstudio.com/)  
+2. Install [PlatformIO](https://platformio.org/platformio-ide)  
+3. Install **SinricPro** library by using [Library Manager](https://docs.platformio.org/en/latest/librarymanager/)  
+4. Use included [platformio.ini](examples/platformio/platformio.ini) file from examples to ensure that all dependent libraries will installed automaticly.
 
 
-[![GitHub version](https://img.shields.io/github/release/arendst/Tasmota.svg)](http://ota.tasmota.com/tasmota/release)
-[![GitHub download](https://img.shields.io/github/downloads/arendst/Tasmota/total.svg)](https://github.com/arendst/Tasmota/releases/latest)
-[![License](https://img.shields.io/github/license/arendst/Tasmota.svg)](LICENSE.txt)
-[![Chat](https://img.shields.io/discord/479389167382691863.svg)](https://discord.gg/Ks2Kzd4)
-[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/arendst/Tasmota)
-
-If you like **Tasmota**, give it a star, or fork it and contribute!
+<!--If you like **Tasmota**, give it a star, or fork it and contribute!
 
 [![GitHub stars](https://img.shields.io/github/stars/arendst/Tasmota.svg?style=social&label=Star)](https://github.com/arendst/Tasmota/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/arendst/Tasmota.svg?style=social&label=Fork)](https://github.com/arendst/Tasmota/network)
 [![donate](https://img.shields.io/badge/donate-PayPal-blue.svg)](https://paypal.me/tasmota)
+
+-->
 
 
 One Paragraph of project description goes here
