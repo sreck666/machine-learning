@@ -51,7 +51,7 @@ https://naps.com.mx/blog/introduccion-al-machine-learning-en-python/
    
 ```
 
-###
+#
 para crear el entorno: 
 ```
 
@@ -67,8 +67,8 @@ para habilitar o desabilitar el entorno:
     nombre_de_env\Scripts\deactivate.bat
     
 ```
-###
-### librerias...
+#
+### librerias para la utilizacion de machine learning...
 
 Pandas:
 La primera librería de Python para Machine learning a considerar sería Pandas, una de las más utilizadas para el tratamiento de datos en Python. Una de las principales virtudes que tiene la librería es la carga de datos, la cual permite realizar la carga desde distintos orígenes. Entre los orígenes que acepta encontramos archivos de texto plano como CSV, ficheros en el extendido formato Excel y cargas directas desde bases de datos SQL, entre otros orígenes de datos. Todas estas fuentes de datos contienen la información en formato tabular y pandas permite representar este tipo de datos a la perfección mediante el uso de su estructura principal, el DataFrame.
@@ -87,7 +87,8 @@ Hasta este punto únicamente hemos introducido librerías que nos permiten manip
 
 TensorFlow:
 Tensorflow es una de las librerías open source más importantes de Deep Learning y ha sido creada por Google. Está formada por un ecosistema flexible de herramientas, librerías y recursos de la comunidad y ayuda a los investigadores a innovar aplicando técnicas de Machine Learning. Además, permite a los desarrolladores incorporar este tipo de tecnologías en sus aplicaciones.
-###
+
+#
 
 ![Librerias necesarias](assets/ml_lib.png)
     
