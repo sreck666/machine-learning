@@ -69,22 +69,22 @@ para habilitar o desabilitar el entorno:
 ```
 ### librerias...
 
-### Pandas
+Pandas:
 La primera librería de Python para Machine learning a considerar sería Pandas, una de las más utilizadas para el tratamiento de datos en Python. Una de las principales virtudes que tiene la librería es la carga de datos, la cual permite realizar la carga desde distintos orígenes. Entre los orígenes que acepta encontramos archivos de texto plano como CSV, ficheros en el extendido formato Excel y cargas directas desde bases de datos SQL, entre otros orígenes de datos. Todas estas fuentes de datos contienen la información en formato tabular y pandas permite representar este tipo de datos a la perfección mediante el uso de su estructura principal, el DataFrame.
 
-### Numpy
+Numpy:
 Numpy es una librería de Python para Machine Learning caracterizada por ser la librería de procesamiento de arrays por excelencia. Contiene una gran colección de funciones que permiten realizar cálculos matemáticos complejos sobre arrays multidimensionales. La funcionalidad que implementa permite realizar operaciones lógicas, redimensiones, búsquedas y aplicar estadísticos entre otras muchas. El núcleo de la librería se basa en los objetos ndarray, los cuales permiten encapsular arrays de n dimensiones sobre los que se pueden realizar las operaciones antes descritas de una forma muy eficiente.
 
-### SciPy
+SciPy:
 La librería Scipy está formada por una serie de módulos que proporcionan funcionalidad para resolver el cómputo de tareas científicas y analíticas. Entre estos módulos podemos encontrar soluciones de álgebra lineal, integración, optimización, interpolación, procesamiento de señales, procesamiento de imagen, etc. La estructura de datos utilizada por SciPy se trata de los arrays multidimensionales proporcionados por el módulo de Numpy, es decir, para la ejecución de sus operaciones SciPy depende de Numpy. 
 
-### Scikit-learn
+Scikit-learn:
 Una de las librerías Python más importantes enfocadas al Machine Learning es Scikit-Learn. Esta librería está formada por una gran cantidad de algoritmos de ML (clasificación, regresión, clustering, etc.) y proporciona funcionalidades básicas que facilitan el trabajo diario de los ingenieros dedicados a este tipo de tareas. Entre sus funcionalidades podemos destacar las herramientas para preprocesar datos, las funciones para evaluar modelos y los mecanismos para ajustar los parámetros de cada modelo.
 
-### Matplotlib
+Matplotlib:
 Hasta este punto únicamente hemos introducido librerías que nos permiten manipular los datos y realizar algoritmos. Sin embargo, existe un procedimiento igual de importante en los flujos de trabajo y ese es el de visualización. La librería de Python para Machine Learning empleada en tareas de visualización por excelencia es Matplotlib y entre sus cualidades destacan que es open source y trabaja a bajo nivel. Es tal su importancia que otras librerías, como Plotly, se basan en ella.
 
-### TensorFlow
+TensorFlow:
 Tensorflow es una de las librerías open source más importantes de Deep Learning y ha sido creada por Google. Está formada por un ecosistema flexible de herramientas, librerías y recursos de la comunidad y ayuda a los investigadores a innovar aplicando técnicas de Machine Learning. Además, permite a los desarrolladores incorporar este tipo de tecnologías en sus aplicaciones.
 
 ![Librerias necesarias](assets/ml_lib.png)
