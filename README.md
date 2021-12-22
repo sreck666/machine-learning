@@ -1,4 +1,4 @@
-# python informacion y ejemplos sobre machine learning
+# python - informacion y ejemplos sobre machine learning
 
 One Paragraph of project description goes here
 
@@ -26,6 +26,7 @@ https://naps.com.mx/blog/introduccion-al-machine-learning-en-python/
 
 para crear el entorno: 
 ```
+
     python -m venv .venv
 
 ```
