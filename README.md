@@ -8,13 +8,9 @@
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/sinricpro/esp8266-esp32-sdk)](https://github.com/sinricpro/esp8266-esp32-sdk/releases)
 
-## Note
-1. Use the latest ESP Arduino Core!
-2. Use the latest WebSocktes library!
+#
 
-## Installation
-
-## VS Code & PlatformIO:
+### VS Code & PlatformIO:
 1. Install [VS Code](https://code.visualstudio.com/)  
 2. Install [PlatformIO](https://platformio.org/platformio-ide)  
 3. Install **SinricPro** library by using [Library Manager](https://docs.platformio.org/en/latest/librarymanager/)  
@@ -22,6 +18,8 @@
 
 
 <!--If you like **Tasmota**, give it a star, or fork it and contribute!
+
+Estadisticas
 
 [![GitHub stars](https://img.shields.io/github/stars/arendst/Tasmota.svg?style=social&label=Star)](https://github.com/arendst/Tasmota/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/arendst/Tasmota.svg?style=social&label=Fork)](https://github.com/arendst/Tasmota/network)
@@ -37,7 +35,7 @@ What things you need to install the software and how to install them
 Installing - A step by step series of examples that tell you how to get a development env running
 Say what the step will be
 
-
+#
 
 ### machine learning information:
 ```
