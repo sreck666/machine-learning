@@ -39,27 +39,31 @@ Explain how to run the automated tests for this system
 
 
 
-###machine learning information:
+### machine learning information:
 
     https://naps.com.mx/blog/introduccion-al-machine-learning-en-python/
 
  
- ###environments information:
+ ### environments information:
 
     https://code.visualstudio.com/docs/python/environments
 
 
-```
+
 para crear el entorno: 
 ```
 
 
-              python -m venv .venv
+    python -m venv .venv
 
-      para habilitar el entorno: 
-    
-              nombre_de_env\Scripts\activate/eactivate
+```
 
+para habilitar o desabilitar el entorno: 
+```    
+
+    nombre_de_env\Scripts\activate/eactivate
+
+```
 
 
 
